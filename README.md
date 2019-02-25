@@ -1,2 +1,2 @@
 # idvoretskyi.github.io
-One special website. Also available at [idvoretskyi.com](http://idvoretskyi.com)
+One special website. Also available at [ihor.dev](http://ihor.dev)
