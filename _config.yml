@@ -1,2 +1,4 @@
 name: Ihor Dvoretskyi
 markdown: kramdown
+
+theme: jekyll-theme-minimal
